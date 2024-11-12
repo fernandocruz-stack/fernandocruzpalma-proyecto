@@ -256,6 +256,11 @@ footer{
         color: #773d7f;
         font-style: italic;
     }
+    ol{
+        li{
+            margin-top: 2px;
+        }
+    }
 
 }
 
